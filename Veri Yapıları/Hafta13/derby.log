@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sun May 10 00:39:43 AST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-fb61-32e1-0000032490e8 
+on database directory \\Mac\Home\Documents\NetBeansProjects\Hafta13\stok with class loader sun.misc.Launcher$AppClassLoader@63947c6b 
+Loaded from file:/C:/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=\\Mac\Home\Documents\NetBeansProjects\Hafta13
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 10 00:39:52 AST 2020: Shutting down Derby engine
+----------------------------------------------------------------
+Sun May 10 00:39:52 AST 2020:
+Shutting down instance a816c00e-0171-fb61-32e1-0000032490e8 on database directory \\Mac\Home\Documents\NetBeansProjects\Hafta13\stok with class loader sun.misc.Launcher$AppClassLoader@63947c6b 
+----------------------------------------------------------------

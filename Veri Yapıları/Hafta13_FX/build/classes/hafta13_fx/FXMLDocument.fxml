@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="366.0" prefWidth="527.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hafta13_fx.FXMLDocumentController">
+    <children>
+        <Button fx:id="button" layoutX="14.0" layoutY="48.0" onAction="#handleButtonAction" prefHeight="49.0" prefWidth="117.0" rotate="-45.0" text="Beni Tıkla" textAlignment="CENTER" />
+        <Label fx:id="etiket" alignment="CENTER" layoutX="361.0" layoutY="309.0" minHeight="16" minWidth="69" prefHeight="31.0" prefWidth="101.0" text="Merhaba" textOverrun="CENTER_ELLIPSIS" />
+      <Accordion layoutX="230.0" layoutY="35.0">
+        <panes>
+          <TitledPane animated="false" text="untitled 1">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+            </content>
+          </TitledPane>
+          <TitledPane animated="false" text="untitled 2">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+            </content>
+          </TitledPane>
+          <TitledPane animated="false" text="untitled 3">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+            </content>
+          </TitledPane>
+        </panes>
+      </Accordion>
+    </children>
+</AnchorPane>
