@@ -1,0 +1,3 @@
+elma = apple
+araba = car
+ev = home

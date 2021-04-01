@@ -1,0 +1,3 @@
+elma = apple
+masa = table
+muz = banana
